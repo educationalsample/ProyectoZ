@@ -1,0 +1,5 @@
+Instrucciones:
+1. Primero, abre el archivo index.html en un editor de texto.
+2. Luego, añade el contenido deseado dentro de las etiquetas <body>.
+3. Guarda los cambios en el archivo index.html.
+4. ¡Listo! Tu página web ahora tiene nuevo contenido.
